@@ -1,0 +1,5 @@
+flipkart:
+  url: "https://www.flipkart.com"
+  search_item: "iPhone"
+  output_file: "iphone_list.txt"
+  chrome_driver_path: "C:\\Users\\jackd\\Downloads\\python\\chromedriver.exe"
